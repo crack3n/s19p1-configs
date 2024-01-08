@@ -2,7 +2,7 @@
 <!-- 
 // ============================================================
 // == 				MUONLINE SERVER EMULATOR				 ==
-// == 				   POWERED BY DV-Team				 	 ==
+// == 				   POWERED BY DATKOOL				 	 ==
 // ==               File Name: SystemMessage                 ==
 // ============================================================
 -->
@@ -661,12 +661,12 @@
 	<Data ID="647" Language="0" Text= "Siege Warfare is being waged!"/>
 	<Data ID="648" Language="0" Text= "Siege Warfare has been concluded."/>
 	<Data ID="649" Language="0" Text= "Siege Warfare registration period commences."/>
-	<!--<Data ID="649" Language="0" Text= />
-	<Data ID="650" Language="0" Text= />
-	<Data ID="651" Language="0" Text= />
-	<Data ID="652" Language="0" Text= />
-	<Data ID="653" Language="0" Text= />
-	<Data ID="654" Language="0" Text= />
+	<Data ID="650" Language="0" Text= "You Already On Mount First Remove It."/>
+	<Data ID="651" Language="0" Text= "Illusion Temple Event Starts in %d minute(s)"/>
+	<Data ID="652" Language="0" Text= "Illusion Temple Event Started Registration will continue %d minute(s)"/>
+	<Data ID="653" Language="0" Text= "Illusion Temple Event Registration will End in %d minute(s)"/>
+	<Data ID="654" Language="0" Text= "Illusion Temple Event Standby Prdiod Ends in %d minute(s)"/>
+	<!--<Data ID="654" Language="0" Text= />
 	<Data ID="655" Language="0" Text= />
 	<Data ID="656" Language="0" Text= />
 	<Data ID="657" Language="0" Text= />
