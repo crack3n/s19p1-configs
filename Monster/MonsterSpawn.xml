@@ -11,29 +11,32 @@
     <Map Number="0" Name="Lorencia">
 		<Spot Type="0" Description="NPC/Traps">
 			<Spawn Index="226" StartX="122" StartY="110" Dir="3" NpcFunction="npc_talk_pet_trainer" />
-			<Spawn Index="229" StartX="136" StartY="88" Dir="1" NpcFunction="npc_talk_quest_evolution" />
+			<Spawn Index="229" StartX="136" StartY="88" Dir="1"  NpcFunction="npc_talk_quest_evolution" />
 			<Spawn Index="256" StartX="114" StartY="133" Dir="2" NpcFunction="npc_talk_jewel_mix" />
 			<Spawn Index="369" StartX="114" StartY="137" Dir="3" NpcFunction="npc_talk_harmony_smelt_item" /> <!-- Osbourne -->
 			<Spawn Index="370" StartX="114" StartY="135" Dir="3" NpcFunction="npc_talk_harmony_restore_item" /> <!-- Jerridon -->
 			<Spawn Index="450" StartX="118" StartY="125" Dir="2" NpcFunction="npc_talk_cherry_blossom" />
+			<Spawn Index="873" StartX="118" StartY="128" Dir="2" NpcFunction="npc_talk_maple" />
+			<Spawn Index="874" StartX="118" StartY="130" Dir="2" NpcFunction="npc_talk_maple" />
 			<Spawn Index="230" StartX="114" StartY="120" Dir="3" NpcFunction="alex" />
 			<Spawn Index="240" StartX="130" StartY="139" Dir="3" NpcFunction="npc_talk_warehouse" />
 			<Spawn Index="240" StartX="146" StartY="110" Dir="3" NpcFunction="npc_talk_warehouse" />
-			<Spawn Index="248" StartX="6" StartY="145" Dir="2" NpcFunction="lorencia_merchant_near_river" />
+			<Spawn Index="248" StartX="6"   StartY="145" Dir="2" NpcFunction="lorencia_merchant_near_river" />
 			<Spawn Index="250" StartX="183" StartY="137" Dir="2" NpcFunction="lorencia_peddler" />
 			<Spawn Index="251" StartX="116" StartY="141" Dir="3" NpcFunction="lorencia_weapon" />
-			<Spawn Index="253" StartX="127" StartY="86" Dir="2" NpcFunction="lorencia_potion_girl" />
+			<Spawn Index="253" StartX="127" StartY="86"  Dir="2" NpcFunction="lorencia_potion_girl" />
 			<Spawn Index="254" StartX="118" StartY="113" Dir="3" NpcFunction="lorencia_mage" />
 			<Spawn Index="255" StartX="123" StartY="135" Dir="1" NpcFunction="lorencia_bar" />
-			<Spawn Index="257" StartX="96" StartY="129" Dir="1" NpcFunction="npc_talk_quest_support" />
+			<Spawn Index="257" StartX="96" StartY="129"  Dir="1" NpcFunction="npc_talk_quest_support" />
 			<Spawn Index="257" StartX="132" StartY="165" Dir="3" NpcFunction="npc_talk_quest_support" />
-			<Spawn Index="257" StartX="132" StartY="90" Dir="3" NpcFunction="npc_talk_quest_support" />
+			<Spawn Index="257" StartX="132" StartY="90"  Dir="3" NpcFunction="npc_talk_quest_support" />
 			<Spawn Index="257" StartX="170" StartY="129" Dir="1" NpcFunction="npc_talk_quest_support" />
 			<Spawn Index="543" StartX="130" StartY="134" Dir="3" NpcFunction="npc_talk_quest_support" />
 			<Spawn Index="547" StartX="139" StartY="138" Dir="3" NpcFunction="npc_talk_loren_market_traveler" />
 			<Spawn Index="579" StartX="121" StartY="142" Dir="1" NpcFunction="npc_talk_lucky" />
 			<Spawn Index="584" StartX="114" StartY="132" Dir="3" NpcFunction="npc_talk_lesnar" />
 			<Spawn Index="764" StartX="131" StartY="147" Dir="2" NpcFunction="npc_talk_cent_town" />
+			<Spawn Index="941" StartX="135" StartY="146" Dir="2" NpcFunction="npc_talk_eunice_town" />
 			<Spawn Index="238" StartX="130" StartY="121" Dir="3" NpcFunction="npc_talk_chaos_machine" />
 			<Spawn Index="238" StartX="117" StartY="142" Dir="2" NpcFunction="npc_talk_chaos_machine" />
 			<Spawn Index="452" StartX="130" StartY="126" Dir="3" NpcFunction="npc_talk_seed_master" />
@@ -6089,6 +6092,7 @@
 			<Spawn Index="758" Distance="0" StartX="236" StartY="59" Dir="1" NpcFunction="" /> <!-- Portal of Dimension -->
 			<Spawn Index="765" Distance="0" StartX="240" StartY="239" Dir="1" NpcFunction="npc_talk_cent_entrance" /> <!-- Cent(Entrance) -->
 			<Spawn Index="522" Distance="0" StartX="171" StartY="239" Dir="1" /> <!-- Jerint the Assistant -->
+			<Spawn Index="941" Distance="0" StartX="117" StartY="239" Dir="1" NpcFunction="npc_talk_eunice_entrance" /> <!-- Eunice(Entrance) -->
 		</Spot>
 	</Map>
 	<Map Number="116" Name="Deep Dungeon 1">
