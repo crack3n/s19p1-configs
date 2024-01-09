@@ -44,66 +44,81 @@
 
     <EarningOptionValue>
         <OptionValue Type="0">
-			<Data Group="0" Value="200" />
-			<Data Group="1" Value="400" />
-			<Data Group="2" Value="600" />
-			<Data Group="3" Value="800" />
+			<Data Group="1" Value="200" />
+			<Data Group="2" Value="400" />
+			<Data Group="3" Value="600" />
+			<Data Group="4" Value="800" />
+			<Data Group="5" Value="1000" />
+			<Data Group="6" Value="1000" />
         </OptionValue>
 
         <OptionValue Type="1">
-			<Data Group="0" Value="17" />
-			<Data Group="1" Value="19" />
-			<Data Group="2" Value="21" />
-			<Data Group="3" Value="23" />
+			<Data Group="1" Value="17" />
+			<Data Group="2" Value="19" />
+			<Data Group="3" Value="21" />
+			<Data Group="4" Value="23" />
+			<Data Group="5" Value="25" />
+			<Data Group="6" Value="27" />
         </OptionValue>
 
         <OptionValue Type="2">
-			<Data Group="0" Value="4" />
-			<Data Group="1" Value="5" />
-			<Data Group="2" Value="6" />
-			<Data Group="3" Value="7" />
+			<Data Group="1" Value="4" />
+			<Data Group="2" Value="5" />
+			<Data Group="3" Value="6" />
+			<Data Group="4" Value="7" />
+			<Data Group="5" Value="8" />
+			<Data Group="6" Value="9" />
         </OptionValue>
 
         <OptionValue Type="3">
-			<Data Group="0" Value="10" />
 			<Data Group="1" Value="10" />
 			<Data Group="2" Value="10" />
 			<Data Group="3" Value="10" />
+			<Data Group="4" Value="10" />
+			<Data Group="5" Value="10" />
+			<Data Group="6" Value="10" />
         </OptionValue>
 
         <OptionValue Type="4">
-			<Data Group="0" Value="20" />
-			<Data Group="1" Value="0" />
-			<Data Group="2" Value="2" />
-			<Data Group="3" Value="4" />
+			<Data Group="1" Value="20" />
+			<Data Group="2" Value="0" />
+			<Data Group="3" Value="2" />
+			<Data Group="4" Value="4" />
+			<Data Group="5" Value="7" />
+			<Data Group="6" Value="10" />
         </OptionValue>
 
         <OptionValue Type="5">
-			<Data Group="0" Value="7" />
 			<Data Group="1" Value="7" />
 			<Data Group="2" Value="7" />
 			<Data Group="3" Value="7" />
+			<Data Group="4" Value="7" />
+			<Data Group="5" Value="7" />
+			<Data Group="6" Value="7" />
         </OptionValue>
 
         <OptionValue Type="6">
-			<Data Group="0" Value="35" />
-			<Data Group="1" Value="1" />
-			<Data Group="2" Value="3" />
-			<Data Group="3" Value="5" />
+			<Data Group="1" Value="35" />
+			<Data Group="2" Value="1" />
+			<Data Group="3" Value="3" />
+			<Data Group="4" Value="5" />
+			<Data Group="5" Value="8" />
+			<Data Group="6" Value="11" />
         </OptionValue>
 
         <OptionValue Type="7">
-			<Data Group="0" Value="1" />
-			<Data Group="1" Value="2" />
-			<Data Group="2" Value="3" />
-			<Data Group="3" Value="4" />
+			<Data Group="1" Value="1" />
+			<Data Group="2" Value="2" />
+			<Data Group="3" Value="3" />
+			<Data Group="4" Value="4" />
+			<Data Group="5" Value="5" />
+			<Data Group="6" Value="6" />
         </OptionValue>
 
         <OptionValue Type="8">
-            <Data Group="3" Value="6" />
-			<Data Group="4" Value="9" />
-			<Data Group="5" Value="12" />
-			
+            <Data Group="4" Value="6" />
+			<Data Group="5" Value="9" />
+			<Data Group="6" Value="12" />			
         </OptionValue>
     </EarningOptionValue>
 </ItemEarringOption>
