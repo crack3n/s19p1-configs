@@ -63,4 +63,31 @@
 		<Data ConditionID="-1" ReqQuestID="8" MinLevel="0" MaxLevel="-1" ReqZen="0" ContextStart="200" />
 		<Data ConditionID="-1" ReqQuestID="255" MinLevel="800" MaxLevel="-1" ReqZen="0" ContextStart="144" />
     </QuestEvo>
+	
+	  <QuestEvo ID="10">
+		<Data ConditionID="-1" ReqQuestID="9" MinLevel="0" MaxLevel="-1" ReqZen="0" ContextStart="232" />
+		<Data ConditionID="-1" ReqQuestID="255" MinLevel="1200" MaxLevel="-1" ReqZen="0" ContextStart="144" />
+    </QuestEvo>
+	
+	<QuestEvo ID="11">
+		<Data ConditionID="-1" ReqQuestID="10" MinLevel="0" MaxLevel="-1" ReqZen="0" ContextStart="238" />
+		<Data ConditionID="-1" ReqQuestID="255" MinLevel="1200" MaxLevel="-1" ReqZen="0" ContextStart="144" />
+    </QuestEvo>
+	
+	<QuestEvo ID="12">
+		<Data ConditionID="-1" ReqQuestID="11" MinLevel="0" MaxLevel="-1" ReqZen="0" ContextStart="244" />
+		<Data ConditionID="-1" ReqQuestID="255" MinLevel="1200" MaxLevel="-1" ReqZen="0" ContextStart="144" />
+    </QuestEvo>
+	
+	<QuestEvo ID="13">
+		<Data ConditionID="-1" ReqQuestID="12" MinLevel="0" MaxLevel="-1" ReqZen="0" ContextStart="253" />
+		<Data ConditionID="-1" ReqQuestID="255" MinLevel="1200" MaxLevel="-1" ReqZen="0" ContextStart="144" />
+    </QuestEvo>
+	
+	<QuestEvo ID="14">
+		<Data ConditionID="-1" ReqQuestID="13" MinLevel="0" MaxLevel="-1" ReqZen="0" ContextStart="254" />
+		<Data ConditionID="-1" ReqQuestID="255" MinLevel="1200" MaxLevel="-1" ReqZen="0" ContextStart="144" />
+    </QuestEvo>
+	
+	
 </QuestEvolutionCondition>

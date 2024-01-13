@@ -18,4 +18,11 @@
 	<Quest ID="7" Type="2" NpcID="766" Party="1" Name="4th Class Upgrade - Eligibility Test" />
 	<Quest ID="8" Type="2" NpcID="766" Party="1" Name="4th Class Upgrade - New Battle" />
 	<Quest ID="9" Type="2" NpcID="766" Party="1" Name="4th Class Upgrade - New Battle (2)" />
+	
+	<Quest ID="10" Type="2" NpcID="941" Party="1" Name="5th Job Change - New Power Nuke" />
+	<Quest ID="11" Type="2" NpcID="941" Party="1" Name="5th Job Change - New Power Bolt" />
+	<Quest ID="12" Type="2" NpcID="941" Party="1" Name="5th Job Change - AoE" />
+	<Quest ID="13" Type="2" NpcID="941" Party="1" Name="5th Job Advancement - Giant Mount" />
+	<Quest ID="14" Type="2" NpcID="941" Party="1" Name="5th Job Change - Giant Mount (2)" />
 </QuestEvolutionTemplate>
+
