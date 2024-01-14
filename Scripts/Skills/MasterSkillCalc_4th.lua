@@ -1,13 +1,4 @@
--- // ============================================================
--- // == INTERNATIONAL GAMING CENTER NETWORK
--- // == www.igcn.mu
--- // == (C) 2019 IGC-Network (R)
--- // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
--- // == File is a part of IGCN Group MuOnline Server files.
--- // ============================================================
 
--- MasterSkillCalc Control Script, Lua v5.2
--- Skill Tree Skill Configuration (Result, Time) - Can be modified to adjust for own needs
 
 -- SkillID refers to Index of skill in \Data\Skills\SkillList.txt
 
