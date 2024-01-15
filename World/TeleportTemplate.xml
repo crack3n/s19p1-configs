@@ -70,5 +70,6 @@
 	<Teleport WorldID="68" Name="Kanturu Undergrounds" Zen="50000" MinLevel="1100" Gate="670" Monster="867" />
 	<Teleport WorldID="69" Name="Ignis Volcano" Zen="50000" MinLevel="1100" Gate="675" Monster="867" />
 	<Teleport WorldID="70" Name="Bloody Tarkan" Zen="50000" MinLevel="1100" Gate="682" Monster="867" />
+	<Teleport WorldID="71" Name="Tormenta Island" Zen="50000" MinLevel="1100" Gate="694" Monster="867" />
 	
 </TeleportTemplate>

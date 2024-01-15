@@ -2,7 +2,7 @@
 <!-- 
 // ============================================================
 // == 				MUONLINE SERVER EMULATOR				 ==
-// == 				   POWERED BY DevEMU				 	 ==
+// == 				   POWERED BY DV-Team				 	 ==
 // ==                File Name: GateTemplate                 ==
 // ============================================================
 -->
@@ -332,6 +332,12 @@
 	<Gate ID="326" Flag="0" World="72" X1="145" Y1="155" X2="147" Y2="157" TargetID="0" Direction="0" MinLevel="0" Description="" />
 	<Gate ID="327" Flag="1" World="72" X1="223" Y1="165" X2="225" Y2="167" TargetID="328" Direction="0" MinLevel="0" Description="" />
 	<Gate ID="328" Flag="0" World="72" X1="241" Y1="23" X2="243" Y2="25" TargetID="0" Direction="0" MinLevel="0" Description="" />
+	
+	<Gate ID="329" Flag="0" World="65" X1="193" Y1="26" X2="200" Y2="32" TargetID="0" Direction="0" MinLevel="0" Description="" />
+	<Gate ID="330" Flag="0" World="66" X1="133" Y1="68" X2="139" Y2="74" TargetID="0" Direction="0" MinLevel="0" Description="" />
+	<Gate ID="331" Flag="0" World="67" X1="106" Y1="58" X2="111" Y2="62" TargetID="0" Direction="0" MinLevel="0" Description="" />
+	<Gate ID="332" Flag="0" World="68" X1="90" Y1="10" X2="97" Y2="17" TargetID="0" Direction="0" MinLevel="0" Description="" />
+	
 	<Gate ID="333" Flag="0" World="79" X1="56" Y1="74" X2="57" Y2="77" TargetID="0" Direction="0" MinLevel="0" Description="" />
 	<Gate ID="334" Flag="0" World="37" X1="66" Y1="183" X2="74" Y2="191" TargetID="0" Direction="0" MinLevel="300" Description="" />
 	<Gate ID="335" Flag="0" World="80" X1="123" Y1="108" X2="140" Y2="125" TargetID="0" Direction="0" MinLevel="270" Description="" />
@@ -660,6 +666,11 @@
 	<Gate ID="673" Flag="1" World="137" X1="117" Y1="125" X2="118" Y2="127" TargetID="674" Direction="0" MinLevel="1190" Description="" />
 	<Gate ID="674" Flag="2" World="38"  X1="106" Y1="157" X2="110" Y2="159" TargetID="0"   Direction="0" MinLevel="1190" Description="" />
 	<Gate ID="675" Flag="0" World="138"  X1="122" Y1="119" X2="129" Y2="127" TargetID="0"   Direction="0" MinLevel="1190" Description="" />
+	<Gate ID="676" Flag="1" World="63"  X1="35" Y1="12" X2="36" Y2="15" TargetID="0"   Direction="0" MinLevel="1190" Description="" />
+	<Gate ID="677" Flag="2" World="138"  X1="122" Y1="119" X2="129" Y2="127" TargetID="0"   Direction="0" MinLevel="1190" Description="" />
+	<Gate ID="678" Flag="1" World="138"  X1="116" Y1="115" X2="117" Y2="119" TargetID="0"   Direction="0" MinLevel="1190" Description="" />
+	<Gate ID="679" Flag="2" World="63"  X1="40" Y1="14" X2="43" Y2="20" TargetID="0"   Direction="0" MinLevel="1190" Description="" />
+	
 	<Gate ID="680" Flag="0" World="114"  X1="169" Y1="236" X2="174" Y2="237" TargetID="0"   Direction="0" MinLevel="1000" Description="Varka Event" />
 	
 	<Gate ID="681" Flag="0" World="139"  X1="122" Y1="111" X2="134" Y2="111" TargetID="0"   Direction="0" MinLevel="400" Description="" />
@@ -668,19 +679,19 @@
 	<Gate ID="684" Flag="2" World="140"  X1="133" Y1="24" X2="141" Y2="31" TargetID="0"   Direction="0" MinLevel="1350" Description="" />
 	<Gate ID="685" Flag="1" World="140"  X1="131" Y1="18" X2="133" Y2="25" TargetID="0"   Direction="0" MinLevel="1350" Description="" />
 	<Gate ID="686" Flag="2" World="8"    X1="127" Y1="28" X2="145" Y2="47" TargetID="0"   Direction="0" MinLevel="1350" Description="" />
-	<Gate ID="687" Flag="1" World="140"  X1="127" Y1="28" X2="145" Y2="47" TargetID="0"   Direction="0" MinLevel="1350" Description="" />
-	<Gate ID="688" Flag="2" World="140"  X1="127" Y1="28" X2="145" Y2="47" TargetID="0"   Direction="0" MinLevel="1350" Description="" />
-	<Gate ID="689" Flag="1" World="140"  X1="127" Y1="28" X2="145" Y2="47" TargetID="0"   Direction="0" MinLevel="1350" Description="" />
-	<Gate ID="690" Flag="2" World="140"  X1="127" Y1="28" X2="145" Y2="47" TargetID="0"   Direction="0" MinLevel="1350" Description="" />
+	<Gate ID="687" Flag="1" World="140"  X1="132" Y1="55" X2="135" Y2="62" TargetID="688"   Direction="0" MinLevel="1350" Description="" />
+	<Gate ID="688" Flag="2" World="140"  X1="160" Y1="159" X2="167" Y2="162" TargetID="0"   Direction="0" MinLevel="1350" Description="" />
+	<Gate ID="689" Flag="1" World="140"  X1="160" Y1="166" X2="166" Y2="169" TargetID="690"   Direction="0" MinLevel="1350" Description="" />
+	<Gate ID="690" Flag="2" World="140"  X1="139" Y1="54" X2="140" Y2="62" TargetID="0"   Direction="0" MinLevel="1350" Description="" />
 	
 	<!-- 5th Quest Area -->
 	<Gate ID="691" Flag="0" World="114" X1="116" Y1="236" X2="120" Y2="238" TargetID="0" Direction="0" MinLevel="1200" Description="Eunice Fighting Area" />
 	<Gate ID="692" Flag="0" World="121" X1="101" Y1="27" X2="105" Y2="28" TargetID="0" Direction="0" MinLevel="0" Description="Eunice Waiting Area" />
 	
-	<Gate ID="693" Flag="0" World="2"  X1="127" Y1="28" X2="145" Y2="47" TargetID="0"   Direction="0" MinLevel="0" Description="" />
-	<Gate ID="694" Flag="0" World="131"  X1="127" Y1="28" X2="145" Y2="47" TargetID="0"   Direction="0" MinLevel="1400" Description="" />
-	<Gate ID="695" Flag="1" World="51"  X1="127" Y1="28" X2="145" Y2="47" TargetID="0"   Direction="0" MinLevel="1400" Description="" />
-	<Gate ID="696" Flag="2" World="141"  X1="127" Y1="28" X2="145" Y2="47" TargetID="0"   Direction="0" MinLevel="1400" Description="" />
+	<Gate ID="693" Flag="0" World="2"  X1="192" Y1="16" X2="194" Y2="20" TargetID="0"   Direction="0" MinLevel="0" Description="" />
+	<Gate ID="694" Flag="0" World="141"  X1="127" Y1="119" X2="132" Y2="124" TargetID="0"   Direction="0" MinLevel="1400" Description="" />
+	<Gate ID="695" Flag="1" World="51"  X1="178" Y1="201" X2="183" Y2="201" TargetID="696"   Direction="0" MinLevel="1400" Description="" />
+	<Gate ID="696" Flag="2" World="141"  X1="127" Y1="119" X2="132" Y2="124" TargetID="0"   Direction="0" MinLevel="1400" Description="" />
 	
 	
 	

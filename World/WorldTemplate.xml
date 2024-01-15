@@ -2,7 +2,7 @@
 <!-- 
 // ============================================================
 // == 				MUONLINE SERVER EMULATOR				 ==
-// == 				   POWERED BY DevEMU				 	 ==
+// == 				   POWERED BY DV-Team				 	 ==
 // ==               File Name: WorldTemplate                 ==
 // ============================================================
 // World ID - Defines Map
@@ -137,6 +137,7 @@
 	<World ID="139" DisplayID="139" State="0" File="139_BossBattle.att" Name="Boss Battle Together" SpawnGate="681" ExpRate="100" ZenRate="100" Flags="89518202" BattleZone="0" Trade="0" OffTrade="0" Duel="0" Party="0" KalimaGate="0" TalismanMove="0" NoLevelCheck="0" Summon="0" GuildCommand="0" MuHelper="0" PartyMove="0" GuildWar="0" DisableCashShop="0" Comment="" />
     
 	<World ID="140" DisplayID="140" State="0" File="141_Bloody_Tarkan.att" Name="Bloody Tarkan" SpawnGate="682" ExpRate="100" ZenRate="100" Flags="89518202" BattleZone="0" Trade="0" OffTrade="0" Duel="0" Party="0" KalimaGate="0" TalismanMove="0" NoLevelCheck="0" Summon="0" GuildCommand="0" MuHelper="0" PartyMove="0" GuildWar="0" DisableCashShop="0" Comment="" />
+    <World ID="141" DisplayID="141" State="0" File="142_Tormenta_Island.att" Name="Tormenta Island" SpawnGate="694" ExpRate="100" ZenRate="100" Flags="89518202" BattleZone="0" Trade="0" OffTrade="0" Duel="0" Party="0" KalimaGate="0" TalismanMove="0" NoLevelCheck="0" Summon="0" GuildCommand="0" MuHelper="0" PartyMove="0" GuildWar="0" DisableCashShop="0" Comment="" />
     
 	<!-- Custom -->
 	<World ID="200" DisplayID="32" State="0" File="Terrain33.att" Name="Last Man Standing" SpawnGate="503" ExpRate="100" ZenRate="0" Flags="131200" BattleZone="0" Trade="0" OffTrade="0" Duel="0" Party="0" KalimaGate="0" TalismanMove="0" NoLevelCheck="0" Summon="0" GuildCommand="0" MuHelper="0" PartyMove="0" GuildWar="0" DisableCashShop="0" Comment="" />
