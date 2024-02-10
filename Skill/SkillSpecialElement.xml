@@ -48,7 +48,7 @@
 	<Skill ID="45" Name="General Attack " Type="20" Rate="100" Duration="10" CalcType="-1" CalcValue="-1" Magic="-1" />
 	<Skill ID="46" Name="Kulreotin - dokguseul" Type="19" Rate="100" Duration="10" CalcType="-1" CalcValue="10" Magic="-1" />
 	<Skill ID="47" Name="Blow" Type="18" Rate="100" Duration="0" CalcType="0" CalcValue="-1" Magic="-1" />
-	<Skill ID="48" Name="Selupan - dokguseul" Type="19" Rate="100" Duration="10" CalcType="-1" CalcValue="10" Magic="-1" />
+	<Skill ID="48" Name="Selupan - Poison Ball" Type="19" Rate="100" Duration="10" CalcType="-1" CalcValue="10" Magic="-1" />
 	<Skill ID="49" Name="Selupan - Frost Storm" Type="20" Rate="100" Duration="10" CalcType="-1" CalcValue="-1" Magic="-1" />
 	<Skill ID="50" Name="Selupan - Frost Shock" Type="9" Rate="100" Duration="0" CalcType="-1" CalcValue="10" Magic="-1" />
 	<Skill ID="51" Name="Selupan - fall " Type="9" Rate="100" Duration="0" CalcType="-1" CalcValue="4" Magic="-1" />
@@ -57,7 +57,7 @@
 	<Skill ID="54" Name="Selupan - Icing " Type="0" Rate="100" Duration="5" CalcType="-1" CalcValue="-1" Magic="-1" />
 	<Skill ID="55" Name="Selupan - Teleportation" Type="17" Rate="100" Duration="10" CalcType="-1" CalcValue="-1" Magic="10" />
 	<Skill ID="56" Name="Selupan - Invincible" Type="21" Rate="100" Duration="10" CalcType="11" CalcValue="10000" Magic="10" />
-	<Skill ID="57" Name="Selupan - gwangpokhwa" Type="6" Rate="100" Duration="-1" CalcType="11" CalcValue="300" Magic="10" />
+	<Skill ID="57" Name="Selupan - Berserk" Type="6" Rate="100" Duration="-1" CalcType="11" CalcValue="300" Magic="10" />
 	<Skill ID="58" Name="Medic HP " Type="2" Rate="100" Duration="0" CalcType="1" CalcValue="5" Magic="-1" />
 	<Skill ID="58" Name="Medic HP" Type="5" Rate="100" Duration="5" CalcType="1" CalcValue="50" Magic="-1" />
 	<Skill ID="59" Name="Shield Defense " Type="0" Rate="30" Duration="2" CalcType="-1" CalcValue="-1" Magic="-1" />
