@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 
+
 <AbilityCardLevelUp>
 	<Card Type="1"> <!-- Skill Card -->
 		<Upgrade InitialLevel="0" ReqCardCount="1" ReqMoney="50000000" ReqItemCat="20" ReqItemIndex="239" ReqItemCount="10" />
