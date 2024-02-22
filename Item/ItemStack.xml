@@ -10,7 +10,7 @@
 <ItemStack>
 	<Item ItemCat="4" ItemIndex="7" MaxStack="255" StackOnLoot="0" StackConvertType="-1" StackConvertIndex="-1" />
 	<Item ItemCat="4" ItemIndex="15" MaxStack="255" StackOnLoot="0" StackConvertType="-1" StackConvertIndex="-1" />
-	<Item ItemCat="12" ItemIndex="15" MaxStack="50" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
+	<Item ItemCat="12" ItemIndex="15" MaxStack="255" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
 	<Item ItemCat="12" ItemIndex="144" MaxStack="5" StackOnLoot="1" StackConvertType="12" StackConvertIndex="145" />
 	<Item ItemCat="12" ItemIndex="146" MaxStack="5" StackOnLoot="1" StackConvertType="12" StackConvertIndex="147" />
 	<Item ItemCat="12" ItemIndex="288" MaxStack="30" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
@@ -38,13 +38,13 @@
 	<Item ItemCat="14" ItemIndex="6" MaxStack="50" StackOnLoot="0" StackConvertType="-1" StackConvertIndex="-1" />
 	<Item ItemCat="14" ItemIndex="7" MaxStack="50" StackOnLoot="0" StackConvertType="-1" StackConvertIndex="-1" />
 	<Item ItemCat="14" ItemIndex="8" MaxStack="50" StackOnLoot="0" StackConvertType="-1" StackConvertIndex="-1" />
-	<Item ItemCat="14" ItemIndex="13" MaxStack="50" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
-	<Item ItemCat="14" ItemIndex="14" MaxStack="50" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
-	<Item ItemCat="14" ItemIndex="16" MaxStack="50" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
+	<Item ItemCat="14" ItemIndex="13" MaxStack="255" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
+	<Item ItemCat="14" ItemIndex="14" MaxStack="255" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
+	<Item ItemCat="14" ItemIndex="16" MaxStack="255" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
 	<Item ItemCat="14" ItemIndex="21" MaxStack="255" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
-	<Item ItemCat="14" ItemIndex="22" MaxStack="50" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
+	<Item ItemCat="14" ItemIndex="22" MaxStack="255" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
 	<Item ItemCat="14" ItemIndex="29" MaxStack="5" StackOnLoot="1" StackConvertType="14" StackConvertIndex="28" />
-	<Item ItemCat="14" ItemIndex="31" MaxStack="50" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
+	<Item ItemCat="14" ItemIndex="31" MaxStack="255" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
 	<Item ItemCat="14" ItemIndex="35" MaxStack="100" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
 	<Item ItemCat="14" ItemIndex="36" MaxStack="100" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
 	<Item ItemCat="14" ItemIndex="37" MaxStack="100" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
@@ -122,4 +122,9 @@
 	<Item ItemCat="14" ItemIndex="477" MaxStack="30" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
 	<Item ItemCat="14" ItemIndex="498" MaxStack="30" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
 	<Item ItemCat="16" ItemIndex="239" MaxStack="120" StackOnLoot="0" StackConvertType="16" StackConvertIndex="240" />
+	<Item ItemCat="20" ItemIndex="164" MaxStack="255" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
+	<Item ItemCat="20" ItemIndex="238" MaxStack="255" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />.
+	<Item ItemCat="20" ItemIndex="158" MaxStack="255" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />
+<Item ItemCat="20" ItemIndex="239" MaxStack="255" StackOnLoot="1" StackConvertType="-1" StackConvertIndex="-1" />.
+	
 </ItemStack>
