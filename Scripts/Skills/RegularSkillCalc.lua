@@ -1,8 +1,3 @@
-
-
--- SkillID refers to Index of skill in \Data\Skills\SkillList.txt
--- BuffID refers to \Data\BuffEffectManager.cfg
-
 -- Character Classes
 CLASS_WIZARD                                          = 0	-- Fairy Elf, Muse Elf, High Elf
 CLASS_KNIGHT                                          = 1	-- Dark Wizard, Soul Master, Grand Master
@@ -922,7 +917,7 @@ end
 function GrowLancerWrath(Strength, Dexterity, Energy)
 	local SkillIncDamage = 50
 	local SkillDecDefense = 30
-	local SkillTime = 15
+	local SkillTime = 300
 
 	return SkillIncDamage, SkillDecDefense, SkillTime
 end
@@ -1486,4 +1481,17 @@ function IllusionKnightAvatarCalc(InDamageMin, InDamageMax, PlayerLevel, PlayerM
 	local OutLife = (PlayerTotalLevel / 20) * PlayerMaxLife
 	
 	return OutDamageMin, OutDamageMax, OutLife
+end
+
+-- SkillID: 2085, Wild Breat 
+function GrowLancerWildBreath(InDamage, Strength, Dexterity, Vitality, Energy, BarrageCount)
+	local OutDamage = 0
+	
+	if (BarrageCount == 1) then
+		OutDamage = (InDamage * (200 + (Strength / 30) + (Dexterity / 30))) / 100;
+	elseif (BarrageCount == 2) then
+		OutDamage = (InDamage * (200 + (Strength / 30) + (Dexterity / 30))) / 100;
+	end
+
+	return OutDamage
 end

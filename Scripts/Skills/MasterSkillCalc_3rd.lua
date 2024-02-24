@@ -1,6 +1,3 @@
-
--- SkillID refers to Index of skill in \Data\Skills\SkillList.xml
-
 -- Character Classes
 CLASS_WIZARD                                          = 0	-- Fairy Elf, Muse Elf, High Elf
 CLASS_KNIGHT                                          = 1	-- Dark Wizard, Soul Master, Grand Master
@@ -1121,8 +1118,8 @@ end
 
 -- SkillID: 765, Burst Strengthener - (Grand Rune Master)
 function RuneWizardBurstCalc_Level1(Energy)
-	local SkillEffect1 = Energy / 30
-	local SkillEffect2 = Energy / 100
+	local SkillEffect1 = Energy / 10000
+	local SkillEffect2 = Energy / 10000
 	local SkillTime = Energy / 20 + 30
 	
 	return SkillEffect1, SkillEffect2, SkillTime
@@ -1869,5 +1866,18 @@ function IllusionKnightBladeStorm_MasterLevel2_Calc(InDamage, Strength, Dexterit
 		OutDamage = (InDamage * (200 + (Strength / 30) + (Dexterity / 30))) / 100;
 	end
 
+	return OutDamage
+end
+
+-- SkillID: 896, Wild Breat Strengthener
+function GrowLancerWildBreath_MasterLevel1_Calc(InDamage, Strength, Dexterity, Vitality, Energy, BarrageCount)
+	local OutDamage = 0
+	
+	if (BarrageCount == 1) then
+		OutDamage = (InDamage * (200 + (Strength / 30) + (Dexterity / 30))) / 100;
+	elseif (BarrageCount == 2) then
+		OutDamage = (InDamage * (200 + (Strength / 30) + (Dexterity / 30))) / 100;
+	end
+	
 	return OutDamage
 end

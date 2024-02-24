@@ -1,7 +1,3 @@
-
-
--- SkillID refers to Index of skill in \Data\Skills\SkillList.txt
-
 -- Character Classes
 CLASS_WIZARD                                          = 0	-- Fairy Elf, Muse Elf, High Elf
 CLASS_KNIGHT                                          = 1	-- Dark Wizard, Soul Master, Grand Master
