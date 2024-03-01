@@ -2,7 +2,7 @@
 <!-- 
 // ============================================================
 // == 				MUONLINE SERVER EMULATOR				 ==
-// == 				   POWERED BY DV-Team				 	 ==
+// == 				   POWERED BY DATKOOL				 	 ==
 // ==               File Name: SystemMessage                 ==
 // ============================================================
 -->
@@ -650,7 +650,7 @@
 	<Data ID="636" Language="0" Text= "You must be at Level %d  to use MuHelper!"/>
 	<Data ID="637" Language="0" Text= "You Need All Together Boss Battle Ticket To enter!"/>
 	<Data ID="638" Language="0" Text= "Registration To All Together Boss Event Finished"/>
-	<Data ID="639" Language="0" Text="All Boss Together Event Starts in %d minute(s)" />	
+	<Data ID="639" Language="0" Text= "All Boss Together Event Starts in %d minute(s)" />	
 	<Data ID="640" Language="0" Text= "All Boss Together Event Started Registration will continue %d minute(s)"/>
 	<Data ID="641" Language="0" Text= "All Boss Together Event Registration will End in %d minute(s)"/>
 	<Data ID="642" Language="0" Text= "All participating guilds for Siege Warfare: please register your Emblem of Lord."/>
@@ -666,11 +666,10 @@
 	<Data ID="652" Language="0" Text= "Illusion Temple Event Started Registration will continue %d minute(s)"/>
 	<Data ID="653" Language="0" Text= "Illusion Temple Event Registration will End in %d minute(s)"/>
 	<Data ID="654" Language="0" Text= "Illusion Temple Event Standby Prdiod Ends in %d minute(s)"/>
-	<!--<Data ID="654" Language="0" Text= />
-	<Data ID="655" Language="0" Text= />
-	<Data ID="656" Language="0" Text= />
-	<Data ID="657" Language="0" Text= />
-	<Data ID="658" Language="0" Text= />
+	<Data ID="655" Language="0" Text= "Insufficient Cards"/>
+	<Data ID="656" Language="0" Text="%d MINUTE(S) LEFT UNTIL ILLUSION TEMPLE OPENS"/>
+	<Data ID="657" Language="0" Text= "You cannot enter the Illusion Temple any more."/>
+	<Data ID="658" Language="0" Text= "Insufficient Ability Enhancement Stone"/>
 	<Data ID="659" Language="0" Text= />
 	<Data ID="660" Language="0" Text= />
 	<Data ID="661" Language="0" Text= />
