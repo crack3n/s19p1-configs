@@ -2,7 +2,7 @@
 <!-- 
 // ============================================================
 // == 				MUONLINE SERVER EMULATOR				 ==
-// == 				   POWERED BY DATKOOL				 	 ==
+// == 				   POWERED BY DV-Team				 	 ==
 // ==               File Name: SystemMessage                 ==
 // ============================================================
 -->
@@ -670,127 +670,127 @@
 	<Data ID="656" Language="0" Text="%d MINUTE(S) LEFT UNTIL ILLUSION TEMPLE OPENS"/>
 	<Data ID="657" Language="0" Text= "You cannot enter the Illusion Temple any more."/>
 	<Data ID="658" Language="0" Text= "Insufficient Ability Enhancement Stone"/>
-	<Data ID="659" Language="0" Text= />
-	<Data ID="660" Language="0" Text= />
-	<Data ID="661" Language="0" Text= />
-	<Data ID="662" Language="0" Text= />
-	<Data ID="663" Language="0" Text= />
-	<Data ID="664" Language="0" Text= />
-	<Data ID="665" Language="0" Text= />
-	<Data ID="666" Language="0" Text= />
-	<Data ID="667" Language="0" Text= />
-	<Data ID="668" Language="0" Text= />
-	<Data ID="669" Language="0" Text= />
-	<Data ID="670" Language="0" Text= />
-	<Data ID="671" Language="0" Text= />
-	<Data ID="672" Language="0" Text= />
-	<Data ID="673" Language="0" Text= />
-	<Data ID="674" Language="0" Text= />
-	<Data ID="675" Language="0" Text= />
-	<Data ID="676" Language="0" Text= />
-	<Data ID="677" Language="0" Text= />
-	<Data ID="678" Language="0" Text= />
-	<Data ID="679" Language="0" Text= />
-	<Data ID="680" Language="0" Text= />
-	<Data ID="681" Language="0" Text= />
-	<Data ID="682" Language="0" Text= />
-	<Data ID="683" Language="0" Text= />
-	<Data ID="684" Language="0" Text= />
-	<Data ID="685" Language="0" Text= />
-	<Data ID="686" Language="0" Text= />
-	<Data ID="687" Language="0" Text= />
-	<Data ID="688" Language="0" Text= />
-	<Data ID="689" Language="0" Text= />
-	<Data ID="690" Language="0" Text= />
-	<Data ID="691" Language="0" Text= />
-	<Data ID="692" Language="0" Text= />
-	<Data ID="693" Language="0" Text= />
-	<Data ID="694" Language="0" Text= />
-	<Data ID="695" Language="0" Text= />
-	<Data ID="696" Language="0" Text= />
-	<Data ID="697" Language="0" Text= />
-	<Data ID="698" Language="0" Text= />
-	<Data ID="399" Language="0" Text= />
-	<Data ID="700" Language="0" Text= />
-	<Data ID="701" Language="0" Text= />
-	<Data ID="702" Language="0" Text= />
-	<Data ID="703" Language="0" Text= />
-	<Data ID="704" Language="0" Text= />
-	<Data ID="705" Language="0" Text= />
-	<Data ID="706" Language="0" Text= />
-	<Data ID="707" Language="0" Text= />
-	<Data ID="708" Language="0" Text= />
-	<Data ID="709" Language="0" Text= />
-	<Data ID="710" Language="0" Text= />
-	<Data ID="711" Language="0" Text= />
-	<Data ID="712" Language="0" Text= />
-	<Data ID="713" Language="0" Text= />
-	<Data ID="714" Language="0" Text= />
-	<Data ID="715" Language="0" Text= />
-	<Data ID="716" Language="0" Text= />
-	<Data ID="717" Language="0" Text= />
-	<Data ID="718" Language="0" Text= />
-	<Data ID="719" Language="0" Text= />
-	<Data ID="720" Language="0" Text= />
-	<Data ID="721" Language="0" Text= />
-	<Data ID="722" Language="0" Text= />
-	<Data ID="723" Language="0" Text= />
-	<Data ID="724" Language="0" Text= />
-	<Data ID="725" Language="0" Text= />
-	<Data ID="726" Language="0" Text= />
-	<Data ID="727" Language="0" Text= />
-	<Data ID="728" Language="0" Text= />
-	<Data ID="729" Language="0" Text= />
-	<Data ID="730" Language="0" Text= />
-	<Data ID="731" Language="0" Text= />
-	<Data ID="732" Language="0" Text= />
-	<Data ID="733" Language="0" Text= />
-	<Data ID="734" Language="0" Text= />
-	<Data ID="735" Language="0" Text= />
-	<Data ID="736" Language="0" Text= />
-	<Data ID="737" Language="0" Text= />
-	<Data ID="738" Language="0" Text= />
-	<Data ID="739" Language="0" Text= />
-	<Data ID="740" Language="0" Text= />
-	<Data ID="741" Language="0" Text= />
-	<Data ID="742" Language="0" Text= />
-	<Data ID="743" Language="0" Text= />
-	<Data ID="744" Language="0" Text= />
-	<Data ID="745" Language="0" Text= />
-	<Data ID="746" Language="0" Text= />
-	<Data ID="747" Language="0" Text= />
-	<Data ID="748" Language="0" Text= />
-	<Data ID="749" Language="0" Text= />
-	<Data ID="750" Language="0" Text= />
-	<Data ID="751" Language="0" Text= />
-	<Data ID="752" Language="0" Text= />
-	<Data ID="753" Language="0" Text= />
-	<Data ID="754" Language="0" Text= />
-	<Data ID="755" Language="0" Text= />
-	<Data ID="756" Language="0" Text= />
-	<Data ID="757" Language="0" Text= />
-	<Data ID="758" Language="0" Text= />
-	<Data ID="759" Language="0" Text= />
-	<Data ID="760" Language="0" Text= />
-	<Data ID="761" Language="0" Text= />
-	<Data ID="762" Language="0" Text= />
-	<Data ID="763" Language="0" Text= />
-	<Data ID="764" Language="0" Text= />
-	<Data ID="765" Language="0" Text= />
-	<Data ID="766" Language="0" Text= />
-	<Data ID="767" Language="0" Text= />
-	<Data ID="768" Language="0" Text= />
-	<Data ID="769" Language="0" Text= />
-	<Data ID="770" Language="0" Text= />
-	<Data ID="771" Language="0" Text= />
-	<Data ID="772" Language="0" Text= />
-	<Data ID="773" Language="0" Text= />
-	<Data ID="774" Language="0" Text= />
-	<Data ID="775" Language="0" Text= />
-	<Data ID="776" Language="0" Text= />
-	<Data ID="777" Language="0" Text= />
-	<Data ID="778" Language="0" Text= />
-	<Data ID="779" Language="0" Text= />
+	<Data ID="659" Language="0" Text= "BloodCastle zone unlocked."/>
+	<Data ID="660" Language="0" Text= "[ Blood Castle ] Door Destroy Bonus: %d"/>
+	<Data ID="661" Language="0" Text= "Blood Castle Statue has been destroyed"/>
+	<Data ID="662" Language="0" Text= "[ Blood Castle ] Statue Destroy Bonus: %d"/>
+	<Data ID="663" Language="0" Text= "[ Blood Castle ] Remaining Time Bonus: %d"/>
+	<Data ID="664" Language="0" Text= "%d minute(s) left before Devil Square opens"/>
+	<Data ID="665" Language="0" Text= "[Devil Square] will start after %d minute(s)"/>
+	<Data ID="666" Language="0" Text= "%d minute(s) left before Blood Castle Start"/>
+	<Data ID="667" Language="0" Text= "%d minute(s) left before Chaos Castle start"/>
+	<Data ID="668" Language="0" Text= "%d minutes left before Chaos Castle Survival of the Fittest starts!"/>
+	<Data ID="669" Language="0" Text= "%d minute(s) left before "/>
+	<Data ID="670" Language="0" Text= " race starts."/>
+	<Data ID="671" Language="0" Text= " race ends."/>
+	<Data ID="672" Language="0" Text= "%s race started."/>
+	<Data ID="673" Language="0" Text= "%s race finished."/>
+	<Data ID="674" Language="0" Text= "[ %s race ] Finished! %s is the winner"/>
+	<Data ID="675" Language="0" Text= "[ %s race ] %s reached gate number %d"/>
+	<Data ID="676" Language="0" Text= "Duel between %s and %s started on - Room: %d"/>
+	<Data ID="677" Language="0" Text= "Duel between %s and %s on Room: %d finished. Run out of time"/>
+	<Data ID="678" Language="0" Text= "Duel between %s and %s on Room: %d finished. Final Score [%d - %d]"/>
+	<Data ID="679" Language="0" Text= "Duel on Room: %d finished. %s win"/>
+	<Data ID="680" Language="0" Text= "Duel between %s and %s on Room: %d finished. %s cancelled duel"/>
+	<Data ID="681" Language="0" Text= "Happy Hour Started"/>
+	<Data ID="682" Language="0" Text= "Happy Hour will start in %d minute(s)"/>
+	<Data ID="683" Language="0" Text= "Happy Hour Finished" />
+	<Data ID="684" Language="0" Text= "Hatchery Gates are open."/>
+	<Data ID="685" Language="0" Text= "Hatchery Gates are open. %d minute(s) left to kill eggs."/>
+	<Data ID="686" Language="0" Text= "Selupan has appeared. The Hatchery Gates will be closed in %d minute(s)"/>
+	<Data ID="687" Language="0" Text= "Hatchery Gates are open."/>
+	<Data ID="688" Language="0" Text= "Hatchery Gates are open. %d minute(s) left to kill Spider Eggs."/>
+	<Data ID="689" Language="0" Text= "[ Scramble ] Finished."/>
+	<Data ID="690" Language="0" Text= "[ Scramble ] Started."/>
+	<Data ID="691" Language="0" Text= "[ Scramble ] %s is the winner. Word was %s"/>
+	<Data ID="692" Language="0" Text= "[Last Man Standing] is open after %d mins."/>
+	<Data ID="693" Language="0" Text= "%d minute(s) left before Doppelganger start"/>
+	<Data ID="694" Language="0" Text= "[Last Man Standing] is closed after %d mins."/>
+	<Data ID="695" Language="0" Text= "[Tormented Square] is open after %d mins."/>
+	<Data ID="696" Language="0" Text= "[Tormented Square] is closed after %d mins."/>
+	<Data ID="697" Language="0" Text= "[Tormented Square Survival] is open after %d mins." />
+	<Data ID="698" Language="0" Text= "[Tormented Square Survival] is closed after %d mins."/>
+	<Data ID="699" Language="0" Text= "%d minutes left to register as Guild Master for the Arca War"/>
+	<Data ID="700" Language="0" Text= "%d minutes left to register as Guild member for the Arca War"/>
+	<Data ID="701" Language="0" Text= "%d seconds left until the Arca War starts. Please wait in a safe area."/>
+	<Data ID="702" Language="0" Text= "The Arca War has started. You can enter by talking to Sir Lesnar."/>
+	<Data ID="703" Language="0" Text= "Chaos Castle Survival"/>
+	<Data ID="704" Language="0" Text= "You can only use %d character per PC."/>
+	<Data ID="705" Language="0" Text= "Golden Channel"/>
+	<Data ID="706" Language="0" Text= "You need %d wcoin to buy %d days."/>
+	<Data ID="707" Language="0" Text= "Instanced Dungeon"/>
+	<Data ID="708" Language="0" Text= "You can only participate with %d character at the same time."/>
+	<Data ID="709" Language="0" Text= "You have to earn %d points to get out of Outlaw status.."/>
+	<Data ID="710" Language="0" Text= "Special Event Map"/>
+	<Data ID="711" Language="0" Text= "You can't move more characters to the special map."/>
+	<Data ID="712" Language="0" Text= "Personal Store"/>
+	<Data ID="713" Language="0" Text= "Off option is disabled." />
+	<Data ID="714" Language="0" Text= "Off option can be used only in safe zone."/>
+	<Data ID="715" Language="0" Text= "Off option can't be used on this map."/>
+	<Data ID="716" Language="0" Text= "ERROR. Contact Administrators"/>
+	<Data ID="717" Language="0" Text= "You can't use off store on this map location."/>
+	<Data ID="718" Language="0" Text= "Need to open Personal Store."/>
+	<Data ID="719" Language="0" Text= "You have exceeded the maximum offstore ammount."/>
+	<Data ID="720" Language="0" Text= "Can't open more offstores on this server."/>
+	<Data ID="721" Language="0" Text= "AUTH"/>
+	<Data ID="722" Language="0" Text= "Wrong Authorization Code."/>
+	<Data ID="723" Language="0" Text= "Offline Attack"/>
+	<Data ID="724" Language="0" Text= "Min level required %d."/>
+	<Data ID="725" Language="0" Text= "Max level allowed %d."/>
+	<Data ID="726" Language="0" Text= "You are not allowed to use on this zone."/>
+	<Data ID="727" Language="0" Text= "You have exceeded the maximum count."/>
+	<Data ID="728" Language="0" Text= "Helper must be active."/>
+	<Data ID="729" Language="0" Text= "Close Personal Store before start."/>
+	<Data ID="730" Language="0" Text= "Close Interface before start."/>
+	<Data ID="731" Language="0" Text= "Not allowed to use on this map."/>
+	<Data ID="732" Language="0" Text= "You need to set how many days you are going to purchase. \n Each day costs %d wcoin. \n Example: /gold 10. That means 10 days."/>
+	<Data ID="733" Language="0" Text= "Errtel Create"/>
+	<Data ID="734" Language="0" Text= "Wrong errtel id"/>
+	<Data ID="735" Language="0" Text= "Wrong errtel element"/>
+	<Data ID="736" Language="0" Text= "Not enough space in inventory."/>
+	<Data ID="737" Language="0" Text= "Wrong errtel options"/>
+	<Data ID="738" Language="0" Text= "ERROR \n Can't use offline attack on this map. \n Level Range for this map is [%d / %d]"/>
+	<Data ID="739" Language="0" Text= "Instanced Dungeon system is disabled."/>
+	<Data ID="740" Language="0" Text= "You will be able to enter again in %s"/>
+	<Data ID="741" Language="0" Text= "You need to be in Party."/>
+	<Data ID="742" Language="0" Text= "There is not suitable Dungeon level for you."/>
+	<Data ID="743" Language="0" Text= "Can't find Dungeon database information."/>
+	<Data ID="744" Language="0" Text= "Your party instance has already finished."/>
+	<Data ID="745" Language="0" Text= "Instance level error."/>
+	<Data ID="746" Language="0" Text= "Your level is too low to enter this instance."/>
+	<Data ID="747" Language="0" Text= "Gremory Case"/>
+	<Data ID="748" Language="0" Text= "No free space inventory"/>
+	<Data ID="749" Language="0" Text= "Imperial Fortress"/>
+	<Data ID="750" Language="0" Text= "Event is disabled."/>
+	<Data ID="751" Language="0" Text= "Close any transaction or Personal Store before enter."/>
+	<Data ID="752" Language="0" Text= "Your instance is currently active."/>
+	<Data ID="753" Language="0" Text= "Your party instance is currently active and you can't join."/>
+	<Data ID="754" Language="0" Text= "You don't belong to your party event instance."/>
+	<Data ID="755" Language="0" Text= "There is no suitable area for your party level."/>
+	<Data ID="756" Language="0" Text= "Warning"/>
+	<Data ID="757" Language="0" Text= "This box can only be opened after you reach level: %d" />
+	<Data ID="758" Language="0" Text= "Jewel Bingo"/>
+	<Data ID="759" Language="0" Text= "Can't play with an active transaction. \n Can't play with Personal Store open."/>
+	<Data ID="760" Language="0" Text= "Labyrinth of Dimensions"/>
+	<Data ID="761" Language="0" Text= "Required level to enter : %d"/>
+	<Data ID="762" Language="0" Text= "Can't enter while transaction is active."/>
+	<Data ID="763" Language="0" Text= "Labyrinth of Dimensions League"/>
+	<Data ID="764" Language="0" Text= "Labyrinth of Dimensions League stage has been changed."/>
+	<Data ID="765" Language="0" Text= "Last Man Standing"/>
+	<Data ID="766" Language="0" Text= "Mini Bomb"/>
+	<Data ID="767" Language="0" Text= "Party"/>
+	<Data ID="768" Language="0" Text= "Can't play with an active transaction. \n Can't play with Personal Store open."/>
+	<Data ID="769" Language="0" Text= "Event is not open."/>
+	<Data ID="770" Language="0" Text= "Mu Roomy"/>
+	<Data ID="771" Language="0" Text= "Can't play game while personal store is open."/>
+	<Data ID="772" Language="0" Text= "Nixies Lake"/>
+	<Data ID="773" Language="0" Text= "Numeric Baseball"/>
+	<Data ID="774" Language="0" Text= "You can't take more jewels."/>
+	<Data ID="775" Language="0" Text= "Your inventory is full."/>
+	<Data ID="776" Language="0" Text= "You are not allowed to buy here."/>
+	<Data ID="777" Language="0" Text= "Can't use right now!"/>
+	<Data ID="778" Language="0" Text= "Only the castle Lord can use!"/>
+	<Data ID="779" Language="0" Text= "Information is unavailable!"/>
 	<Data ID="780" Language="0" Text= />
 	<Data ID="781" Language="0" Text= />
 	<Data ID="782" Language="0" Text= />
@@ -809,6 +809,6 @@
 	<Data ID="795" Language="0" Text= />
 	<Data ID="797" Language="0" Text= />
 	<Data ID="798" Language="0" Text= />
-	<Data ID="799" Language="0" Text= /> -->	
+	<Data ID="799" Language="0" Text= /> 	
 	
 </SystemMessage>
