@@ -76,6 +76,26 @@ function BridgeFunctionAttach(BridgeName,FunctionName)
 
 		if BridgeFunctionTable[14] == nil then BridgeFunctionTable[14] = {} end
 		table.insert(BridgeFunctionTable[14],{Function=FunctionName})
+	
+	elseif BridgeName == "OnUserItemPick" then
+
+		if BridgeFunctionTable[15] == nil then BridgeFunctionTable[15] = {} end
+		table.insert(BridgeFunctionTable[15],{Function=FunctionName})
+		
+	elseif BridgeName == "OnUserItemDrop" then
+
+		if BridgeFunctionTable[16] == nil then BridgeFunctionTable[16] = {} end
+		table.insert(BridgeFunctionTable[16],{Function=FunctionName})
+		
+	elseif BridgeName == "OnUserItemMove" then
+
+		if BridgeFunctionTable[17] == nil then BridgeFunctionTable[17] = {} end
+		table.insert(BridgeFunctionTable[17],{Function=FunctionName})
+		
+	elseif BridgeName == "OnCommandDone" then
+
+		if BridgeFunctionTable[18] == nil then BridgeFunctionTable[18] = {} end
+		table.insert(BridgeFunctionTable[18],{Function=FunctionName})
 
 	end
 
@@ -83,6 +103,31 @@ end
 
 
 function BridgeFunction_OnReadScript()
+	
+	-- Load the DBI module
+--local DBI = require("System\\DBI")
+
+-- Create a connection
+--local dbh = assert(DBI.Connect('MySQL', 'characters', 'root', 'M1d2m3', '127.0.0.1', 3306))
+
+-- Set autocommit flag
+--dbh:autocommit(true)
+
+-- Check connection status
+--local alive = dbh:ping()
+
+-- Prepare an insert statement
+--local insert = assert(dbh:prepare('insert into giant_mount_settings(character_id, giant_model, giant_status) values(?,?,?)'))
+
+-- Execute the insert statement
+--insert:execute(300, -1, -2)
+
+-- Commit the transaction
+--dbh:commit()
+
+-- Close the prepared statement and connection handles
+--insert:close()
+--dbh:close()
 	
 	if BridgeFunctionTable[1] ~= nil then
 
@@ -312,3 +357,76 @@ function BridgeFunction_OnSQLAsyncResult(label,param,result)
 	return 0
 
 end
+
+function BridgeFunction_OnUserItemPick(aIndex,bIndex)
+
+	if BridgeFunctionTable[15] ~= nil then
+
+		for n=1,#BridgeFunctionTable[15],1 do
+
+			local ret = _G[BridgeFunctionTable[15][n].Function](aIndex,bIndex)
+
+			if ret == 0 then return 0 end
+
+		end
+
+	end
+
+	return 1
+
+end
+
+function BridgeFunction_OnUserItemDrop(aIndex, slot, x, y)
+
+	if BridgeFunctionTable[16] ~= nil then
+
+		for n=1,#BridgeFunctionTable[16],1 do
+
+			local ret = _G[BridgeFunctionTable[16][n].Function](aIndex, slot, x, y)
+
+			if ret == 0 then return 0 end
+
+		end
+
+	end
+
+	return 1
+
+end
+
+function BridgeFunction_OnUserItemMove(aIndex, aFlag, aSlot, bFlag, bSlot)
+
+	if BridgeFunctionTable[17] ~= nil then
+
+		for n=1,#BridgeFunctionTable[17],1 do
+
+			local ret = _G[BridgeFunctionTable[17][n].Function](aIndex, aFlag, aSlot, bFlag, bSlot)
+
+			if ret == 0 then return 0 end
+
+		end
+
+	end
+
+	return 1
+
+end
+
+function BridgeFunction_OnCommandDone(aIndex, code)
+
+	if BridgeFunctionTable[18] ~= nil then
+
+		for n=1,#BridgeFunctionTable[18],1 do
+
+			local ret = _G[BridgeFunctionTable[18][n].Function](aIndex, code)
+
+			if ret == 0 then return 0 end
+
+		end
+
+	end
+
+	return 1
+
+end
+
