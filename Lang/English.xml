@@ -2,7 +2,7 @@
 <!-- 
 // ============================================================
 // == 				MUONLINE SERVER EMULATOR				 ==
-// == 				   POWERED BY DV-Team				 	 ==
+// == 				   POWERED DV-TEAM				 	 	 ==
 // ==               File Name: SystemMessage                 ==
 // ============================================================
 -->
@@ -791,12 +791,12 @@
 	<Data ID="777" Language="0" Text= "Can't use right now!"/>
 	<Data ID="778" Language="0" Text= "Only the castle Lord can use!"/>
 	<Data ID="779" Language="0" Text= "Information is unavailable!"/>
-	<Data ID="780" Language="0" Text= />
-	<Data ID="781" Language="0" Text= />
-	<Data ID="782" Language="0" Text= />
-	<Data ID="783" Language="0" Text= />
-	<Data ID="784" Language="0" Text= />
-	<Data ID="785" Language="0" Text= />
+	<Data ID="780" Language="0" Text= "Added %d points. Left %d points to add"/>
+	<Data ID="781" Language="0" Text= "Finish 4 Class Test First!"/>
+	<Data ID="782" Language="0" Text= "[%s] upgrade succes [%s +%d]"/>
+	<Data ID="783" Language="0" Text= "You Already Finished Cent's Quests"/>
+	<Data ID="784" Language="0" Text= "Finish First Into the Realm of 'Darkness' Quest"/>
+	<Data ID="785" Language="0" Text= "You Already Finished Eunice Quests "/>
 	<Data ID="786" Language="0" Text= />
 	<Data ID="787" Language="0" Text= />
 	<Data ID="788" Language="0" Text= />
@@ -809,6 +809,6 @@
 	<Data ID="795" Language="0" Text= />
 	<Data ID="797" Language="0" Text= />
 	<Data ID="798" Language="0" Text= />
-	<Data ID="799" Language="0" Text= /> 	
+	<Data ID="799" Language="0" Text= /> -->	
 	
 </SystemMessage>

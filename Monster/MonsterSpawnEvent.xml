@@ -1948,265 +1948,8 @@
         </Ground>
     </EventInfo>
 
-    <EventInfo EventID="8">
-        <Ground WorldID="0">
-			<Monster ID="55" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="2" Data2="0" Data3="0" Data4="1" Data5="100" NpcFunction="" ItemBag="Underground - Skeleton King" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="56" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="2" Data2="0" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="9" />
-			<Monster ID="135" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="0" Data3="0" Data4="1" Data5="100" NpcFunction="" ItemBag="Invasion - White Wizard" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="136" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="0" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="Invasion - White Wizard: Orc" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="15" />
-			<Monster ID="137" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="0" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="Invasion - White Wizard: Orc" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="15" />
-			<Monster ID="466" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="6" Data2="0" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="Invasion - Evil Santa: Goblin" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="9" />
-			<Monster ID="476" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="6" Data2="0" Data3="0" Data4="1" Data5="100" NpcFunction="" ItemBag="Evil Santa" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="42" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="4" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Red Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="44" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="4" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Red Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="43" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Budge Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="79" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="674" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
-			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="50" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="150" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="151" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-            <Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="16" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-	   </Ground>
 
-        <Ground WorldID="1">
-			<Monster ID="493" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Knight" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="50" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="150" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="151" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-        </Ground>
 
-        <Ground WorldID="2">
-			<Monster ID="55" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="2" Data2="1" Data3="0" Data4="1" Data5="100" NpcFunction="" ItemBag="Underground - Skeleton King" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="56" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="2" Data2="1" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="9" />
-			<Monster ID="135" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="1" Data3="0" Data4="1" Data5="100" NpcFunction="" ItemBag="Invasion - White Wizard" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="136" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="1" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="Invasion - White Wizard: Orc" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="15" />
-			<Monster ID="137" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="1" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="Invasion - White Wizard: Orc" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="15" />
-			<Monster ID="466" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="6" Data2="1" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="Invasion - Evil Santa: Goblin" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="9" />
-			<Monster ID="476" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="6" Data2="1" Data3="0" Data4="1" Data5="100" NpcFunction="" ItemBag="Evil Santa" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="42" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="4" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Red Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="44" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="4" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Red Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="43" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Budge Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="53" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Titan" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="54" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Soldier" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="674" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
-			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="50" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="150" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="151" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-        </Ground>
-
-        <Ground WorldID="3">
-			<Monster ID="55" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="2" Data2="2" Data3="0" Data4="1" Data5="100" NpcFunction="" ItemBag="Underground - Skeleton King" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="56" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="2" Data2="2" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="9" />
-			<Monster ID="135" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="2" Data3="0" Data4="1" Data5="100" NpcFunction="" ItemBag="Invasion - White Wizard" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="136" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="2" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="Invasion - White Wizard: Orc" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="15" />
-			<Monster ID="137" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="2" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="Invasion - White Wizard: Orc" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="15" />
-			<Monster ID="466" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="6" Data2="2" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="Invasion - Evil Santa: Goblin" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="9" />
-			<Monster ID="476" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="6" Data2="2" Data3="0" Data4="1" Data5="100" NpcFunction="" ItemBag="Evil Santa" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="42" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="4" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Red Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="44" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="4" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Red Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="43" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Budge Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="78" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Goblin" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="674" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="3" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
-			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="50" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="3" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="150" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="3" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="151" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="3" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="3" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-        </Ground>
-
-        <Ground WorldID="4">
-			<Monster ID="365" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="3" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="New Year Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="413" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="1" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Blue Event - Lunar Rabbit" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="10" />
-			<Monster ID="463" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="5" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Summer Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="494" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Devil" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="675" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="4" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
-			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="50" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="4" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="150" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="4" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="151" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="4" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="4" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-        </Ground>
-
-        <Ground WorldID="7">
-			<Monster ID="365" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="3" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="New Year Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="413" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="1" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Blue Event - Lunar Rabbit" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="10" />
-			<Monster ID="463" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="5" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Summer Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="80" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Lizard King" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="81" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Vepar" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="50" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="5" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="150" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="5" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="151" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="5" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-        </Ground>
-
-        <Ground WorldID="8">
-			<Monster ID="365" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="3" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="New Year Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="413" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="1" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Blue Event - Lunar Rabbit" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="10" />
-			<Monster ID="463" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="5" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Summer Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="82" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Tantalo" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="83" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Wheel" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="10">
-			<Monster ID="496" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Crust" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="675" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="5" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="5" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-        </Ground>
-
-        <Ground WorldID="24">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="25">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="3" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="26">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="4" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="27">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="5" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="28">
-			<Monster ID="675" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="6" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="6" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="6" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-        </Ground>
-
-        <Ground WorldID="29">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="7" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="33">
-			<Monster ID="365" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="3" Data2="3" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="New Year Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="413" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="1" Data2="3" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Blue Event - Lunar Rabbit" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="10" />
-			<Monster ID="463" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="5" Data2="3" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Summer Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="495" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Stone Golem" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="675" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="7" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
-			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="8" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="7" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-        </Ground>
-
-        <Ground WorldID="36">
-			<Monster ID="676" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="11" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="9" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="11" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-        </Ground>
-
-        <Ground WorldID="37">
-			<Monster ID="365" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="3" Data2="4" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="New Year Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="413" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="1" Data2="4" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Blue Event - Lunar Rabbit" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="10" />
-			<Monster ID="463" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="5" Data2="4" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Summer Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="497" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Satyros" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="676" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="10" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
-			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="10" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="10" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-        </Ground>
- 
-        <Ground WorldID="38">
-			<Monster ID="498" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Twin Tail" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="501" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Great Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="11" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="51">
-			<Monster ID="502" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Rabbit" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="674" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
-			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="50" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="6" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="150" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="6" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="151" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="6" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-        </Ground>
-
-        <Ground WorldID="56">
-			<Monster ID="500" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Napin" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="676" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="9" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="12" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="9" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-        </Ground>
-
-        <Ground WorldID="57">
-			<Monster ID="365" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="3" Data2="5" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="New Year Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="463" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="5" Data2="5" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Summer Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
-			<Monster ID="499" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Iron Knight" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-			<Monster ID="676" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="8" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="13" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="8" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
-        </Ground>
-
-        <Ground WorldID="63">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="14" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="80">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="15" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="81">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="16" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="91">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="17" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="95">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="18" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="100">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="19" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="110">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="20" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="112">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="21" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="113">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="22" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="116">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="23" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="117">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="24" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="118">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="25" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="119">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="26" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="120">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="27" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-
-        <Ground WorldID="122">
-			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="28" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
-        </Ground>
-   </EventInfo>
 
     <EventInfo EventID="9"> <!-- Castle Siege -->
         <Ground WorldID="30">
@@ -3219,6 +2962,17 @@
     <EventInfo EventID="26">
         
     </EventInfo>
+	
+	<EventInfo EventID="30">
+         <Ground WorldID="139">
+		    <Monster ID="919" StartX="120" StartY="152" EndX="120" EndY="154" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="921" StartX="120" StartY="152" EndX="120" EndY="154" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="922" StartX="120" StartY="152" EndX="120" EndY="154" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="923" StartX="120" StartY="152" EndX="120" EndY="154" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="924" StartX="120" StartY="152" EndX="120" EndY="154" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="" AIGroup="0" AIGroupMember="0" Count="1" />
+			</Ground>
+    </EventInfo>
+
 
     <EventInfo EventID="28">
         <Ground WorldID="300">
@@ -3336,4 +3090,265 @@
 			<Monster ID="17" StartX="25" StartY="220" EndX="25" EndY="220" Direction="-1" SpawnDelay="0" MoveDistance="10" Data1="0" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="ai_instanced_dungeon_monster" AIGroup="0" AIGroupMember="0" Count="1" />
 			</Ground>
     </EventInfo>
+
+<!-- Invasions -->
+    <EventInfo EventID="8">
+        <Ground WorldID="0">
+			<Monster ID="55" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="2" Data2="0" Data3="0" Data4="1" Data5="100" NpcFunction="" ItemBag="Underground - Skeleton King" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="56" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="2" Data2="0" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="9" />
+			<Monster ID="135" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="0" Data3="0" Data4="1" Data5="100" NpcFunction="" ItemBag="Invasion - White Wizard" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="136" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="0" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="Invasion - White Wizard: Orc" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="15" />
+			<Monster ID="137" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="0" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="Invasion - White Wizard: Orc" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="15" />
+			<Monster ID="466" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="6" Data2="0" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="Invasion - Evil Santa: Goblin" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="9" />
+			<Monster ID="476" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="6" Data2="0" Data3="0" Data4="1" Data5="100" NpcFunction="" ItemBag="Evil Santa" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="42" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="4" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Red Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="44" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="4" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Red Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="43" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Budge Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="30" />
+			<Monster ID="79" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="30" />
+			<Monster ID="674" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
+			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="50" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="150" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="151" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+            <Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="16" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+	   </Ground>
+
+        <Ground WorldID="1">
+			<Monster ID="493" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Knight" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="50" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="150" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="151" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+        </Ground>
+
+        <Ground WorldID="2">
+			<Monster ID="55" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="2" Data2="1" Data3="0" Data4="1" Data5="100" NpcFunction="" ItemBag="Underground - Skeleton King" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="56" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="2" Data2="1" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="9" />
+			<Monster ID="135" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="1" Data3="0" Data4="1" Data5="100" NpcFunction="" ItemBag="Invasion - White Wizard" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="136" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="1" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="Invasion - White Wizard: Orc" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="15" />
+			<Monster ID="137" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="1" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="Invasion - White Wizard: Orc" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="15" />
+			<Monster ID="466" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="6" Data2="1" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="Invasion - Evil Santa: Goblin" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="9" />
+			<Monster ID="476" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="6" Data2="1" Data3="0" Data4="1" Data5="100" NpcFunction="" ItemBag="Evil Santa" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="42" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="4" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Red Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="44" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="4" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Red Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="43" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Budge Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="53" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Titan" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="54" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Soldier" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="674" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
+			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="50" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="150" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="151" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+        </Ground>
+
+        <Ground WorldID="3">
+			<Monster ID="55" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="2" Data2="2" Data3="0" Data4="1" Data5="100" NpcFunction="" ItemBag="Underground - Skeleton King" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="56" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="2" Data2="2" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="9" />
+			<Monster ID="135" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="2" Data3="0" Data4="1" Data5="100" NpcFunction="" ItemBag="Invasion - White Wizard" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="136" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="2" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="Invasion - White Wizard: Orc" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="15" />
+			<Monster ID="137" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="0" Data2="2" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="Invasion - White Wizard: Orc" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="15" />
+			<Monster ID="466" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="6" Data2="2" Data3="0" Data4="0" Data5="100" NpcFunction="" ItemBag="Invasion - Evil Santa: Goblin" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="9" />
+			<Monster ID="476" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="6" Data2="2" Data3="0" Data4="1" Data5="100" NpcFunction="" ItemBag="Evil Santa" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="42" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="4" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Red Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="44" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="4" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Red Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="43" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Budge Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="78" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Goblin" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="674" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="3" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
+			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="50" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="3" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="150" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="3" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="151" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="3" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="3" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+        </Ground>
+
+        <Ground WorldID="4">
+			<Monster ID="365" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="3" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="New Year Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="413" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="1" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Blue Event - Lunar Rabbit" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="10" />
+			<Monster ID="463" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="5" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Summer Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="494" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Devil" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="675" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="4" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
+			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="50" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="4" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="150" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="4" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="151" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="4" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="4" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+        </Ground>
+
+        <Ground WorldID="7">
+			<Monster ID="365" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="3" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="New Year Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="413" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="1" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Blue Event - Lunar Rabbit" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="10" />
+			<Monster ID="463" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="5" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Summer Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="80" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Lizard King" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="81" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Vepar" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="50" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="5" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="150" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="5" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="151" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="5" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+        </Ground>
+
+        <Ground WorldID="8">
+			<Monster ID="365" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="3" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="New Year Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="413" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="1" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Blue Event - Lunar Rabbit" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="10" />
+			<Monster ID="463" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="5" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Summer Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="82" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Tantalo" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="83" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Wheel" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="10">
+			<Monster ID="496" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Crust" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="675" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="5" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="5" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+        </Ground>
+
+        <Ground WorldID="24">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="2" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="25">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="3" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="26">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="4" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="27">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="5" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="28">
+			<Monster ID="675" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="6" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="6" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="6" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+        </Ground>
+
+        <Ground WorldID="29">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="7" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="33">
+			<Monster ID="365" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="3" Data2="3" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="New Year Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="413" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="1" Data2="3" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Blue Event - Lunar Rabbit" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="10" />
+			<Monster ID="463" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="5" Data2="3" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Summer Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="495" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Stone Golem" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="675" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="7" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
+			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="8" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="7" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+        </Ground>
+
+        <Ground WorldID="36">
+			<Monster ID="676" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="11" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="9" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="11" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+        </Ground>
+
+        <Ground WorldID="37">
+			<Monster ID="365" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="3" Data2="4" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="New Year Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="413" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="1" Data2="4" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Blue Event - Lunar Rabbit" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="10" />
+			<Monster ID="463" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="5" Data2="4" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Summer Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="497" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Satyros" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="676" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="10" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
+			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="10" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="10" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+        </Ground>
+ 
+        <Ground WorldID="38">
+			<Monster ID="498" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Twin Tail" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="501" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Great Dragon" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="11" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="51">
+			<Monster ID="502" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Rabbit" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="674" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
+			<Monster ID="652" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="12" Data2="0" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="50" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="6" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="150" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="6" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="151" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="13" Data2="6" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="ExileTroops" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="1" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+        </Ground>
+
+        <Ground WorldID="56">
+			<Monster ID="500" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Napin" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="676" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="9" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="12" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="9" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+        </Ground>
+
+        <Ground WorldID="57">
+			<Monster ID="365" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="3" Data2="5" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="New Year Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="463" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="5" Data2="5" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="Summer Event" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="3" />
+			<Monster ID="499" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="8" Data2="0" Data3="0" Data4="1" Data5="0" NpcFunction="" ItemBag="Golden - Iron Knight" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+			<Monster ID="676" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="8" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="4" />
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="13" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+			<Monster ID="677" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="10" Data2="8" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="1" />
+        </Ground>
+
+        <Ground WorldID="63">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="14" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="80">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="15" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="81">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="16" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="91">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="17" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="95">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="18" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="100">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="19" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="110">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="20" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="112">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="21" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="113">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="22" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="116">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="23" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="117">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="24" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="118">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="25" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="119">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="26" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="120">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="27" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+
+        <Ground WorldID="122">
+			<Monster ID="143" StartX="1" StartY="1" EndX="255" EndY="255" Direction="-1" SpawnDelay="0" MoveDistance="30" Data1="15" Data2="28" Data3="0" Data4="0" Data5="0" NpcFunction="" ItemBag="SkeletonSorcerer" ScriptName="invasion_ai" AIGroup="0" AIGroupMember="0" Count="5" />
+        </Ground>
+   </EventInfo>
 </MonsterSpawnEvent>
