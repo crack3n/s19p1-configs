@@ -83,7 +83,7 @@
 	<Data ItemId="6497" Attribute="1" Rank="12" NextItemID="6503" />
 	<Data ItemId="6498" Attribute="2" Rank="12" NextItemID="6504" />
 	<Data ItemId="6499" Attribute="3" Rank="12" NextItemID="6505" />
-	<Data ItemId="6500" Attribute="4" Rank="12" NextItemID="6506" />
+	<Data ItemId="6500" Attribute="4" Rank="12" NextItemID="6506" /> 
 	<Data ItemId="6501" Attribute="5" Rank="12" NextItemID="6507" />
 	<Data ItemId="6502" Attribute="6" Rank="12" NextItemID="6508" />
 	<Data ItemId="6503" Attribute="1" Rank="13" NextItemID="6509" />
@@ -93,7 +93,7 @@
 	<Data ItemId="6507" Attribute="5" Rank="13" NextItemID="6513" />
 	<Data ItemId="6508" Attribute="6" Rank="13" NextItemID="6514" />		
 	<Data ItemId="6509" Attribute="1" Rank="14" NextItemID="6515" />
-	<Data ItemId="6500" Attribute="2" Rank="14" NextItemID="6516" />
+	<Data ItemId="6510" Attribute="2" Rank="14" NextItemID="6516" />
 	<Data ItemId="6511" Attribute="3" Rank="14" NextItemID="6517" />
 	<Data ItemId="6512" Attribute="4" Rank="14" NextItemID="6518" />
 	<Data ItemId="6513" Attribute="5" Rank="14" NextItemID="6519" />
